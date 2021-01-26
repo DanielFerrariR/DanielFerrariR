@@ -1,9 +1,8 @@
 ### Hi there, I'm Daniel Ferrari 👋
 
-[![Website](https://img.shields.io/website?label=DanielFerrari%20Website&style=for-the-badge&url=https://danielferrari.netlify.app)](https://danielferrari.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielferrarir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdanielferrarir&screen_name=danielferrarir)
 
-- :trophy: I'm a Full Stack Developer currently working at Altran company.
+- :trophy: I'm a Full Stack Developer currently working at Jobsity company.
 - :open_hands: I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I :heart: food.
@@ -23,7 +22,6 @@
 [<img align="left" alt="DanielFerrari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="DanielFerrari | Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg" />][Hotmail]
 
-[website]: https://danielferrari.netlify.app
 [youtube]: https://www.youtube.com/channel/UCaPSdc6msdWHNTQ-2UerNgA
 [twitter]: https://twitter.com/danielferrarir
 [linkedin]: https://linkedin.com/in/danielferrarirey
