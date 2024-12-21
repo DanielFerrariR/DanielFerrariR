@@ -13,12 +13,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielferrarir&hide=Java&layout=compact" />
 
-### Connect with me:
-
-[<img align="left" alt="DanielFerrari | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DanielFerrari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DanielFerrari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DanielFerrari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="DanielFerrari | Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg" />][Hotmail]
-
-[hotmail]: mailto:danielferrari@live.com
