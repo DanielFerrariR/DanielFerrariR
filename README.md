@@ -21,8 +21,4 @@
 [<img align="left" alt="DanielFerrari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="DanielFerrari | Hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftoutlook.svg" />][Hotmail]
 
-[youtube]: https://www.youtube.com/channel/UCaPSdc6msdWHNTQ-2UerNgA
-[twitter]: https://twitter.com/danielferrarir
-[linkedin]: https://linkedin.com/in/danielferrarirey
-[instagram]: https://instagram.com/danielferrarir
 [hotmail]: mailto:danielferrari@live.com
